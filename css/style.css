@@ -560,10 +560,10 @@ hr {
   /* EDUCATION SECTION CSS============== */
 
   .educationSection {
-    grid-template-columns: 1fr;
+    grid-template-columns: 0.3fr;
   }
   .educationSection .durationAndDegree {
-    line-height: 3.5vw;
+    line-height: 2vw;
   }
 
   /* EXPERIENCE SECTION CSS============== */
